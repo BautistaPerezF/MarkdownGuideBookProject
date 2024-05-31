@@ -1,6 +1,6 @@
 # Competencias de Ferrari 
 
-<img src="2013_Ferrari_458_Spider_(73530347).jpeg">
+![](res/2013_Ferrari_458_Spider_(73530347).jpeg)
 
 En todos los años en los que ferrari estuvo en el mundo automovilistico, este participo en muchas carreras y competencias. Con la Escuderia Ferrari, que empezo en 1920, para luego ser parte de Alpha Romeo. Pero, luego de 1940 se separo y por no poder competir por un tiempo empezo a hacer Autos de carrera.
 
@@ -29,7 +29,7 @@ fue la serie mundial de carreras de autos deportivos realizada por la [FIA](http
 - los 1000 km de Nürburgring.
 - 
 
-<img src="FIA_SportscarWorldChampionship_1991.svg.png">
+![](res/FIA_SportscarWorldChampionship_1991.svg.png)
 
 ## Cuantas veces gano ferrari 
 + Ferrari a ganado 10 lemans a lo largo de su historia
@@ -37,11 +37,11 @@ fue la serie mundial de carreras de autos deportivos realizada por la [FIA](http
 + 7 Victorias en Mille Miglia
 + 7 Victorias en Targa Florio 
 
-[<img src="lemans-24-hours-of-le-mans-1965-masten-gregory-jochen-rindt-ferrari-250lm.jpg">]
+![](res/lemans-24-hours-of-le-mans-1965-masten-gregory-jochen-rindt-ferrari-250lm.jpg)
 
 ## Formula 1 
 
-<img src="F1.svg.png">
+![](res/F1.svg.png)
 
 La competencia mas prestigiosa del mundo automobilistico, [el mundial de automovilismo](https://es.wikipedia.org/wiki/Fórmula_1), Y este tiene su historia desde 1950, en la que ferrari participo, Participando en toda su historia
 

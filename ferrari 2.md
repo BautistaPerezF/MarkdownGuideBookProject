@@ -2,25 +2,25 @@
 + 1962 Ferrari 250 GTO 
 + 1987 Ferrari F40
 
-[<img src="ferrari.jpg">](https://link-to-your-URL/)
+![](res/ferrari.jpg)
 
 # Modelos de ferraris mas caros
 + Ferrari 335 S
 + Ferarri 290 MM
 
-[<img src="1975.jpg">](https://link-to-your-URL/)
+![](res/1975.jpg)
 
 # Modelos de ferrari mas baratos
 + Ferrari Mondial 8
 + Ferrari 400i Automático
 
-[<img src="mondial 8.jpg">](https://link-to-your-URL/)
+![](res/mondial_8.jpg)
 
 # modelos de ferrari mas nuevos
 + SF90 spider
 + 296 GTB
 
-[<img src="KMO.jpg">](https://link-to-your-URL/)
+![](res/KMO.jpg)
 
 
 

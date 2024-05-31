@@ -4,7 +4,7 @@
 
 [Abu dabi](https://www.ferrariworldabudhabi.com/) 
 
-![f1.jpeg](f1.jpeg)
+![f1.jpeg](res/f1.jpeg)
 
 [mas sobre nosotros](https://soymotor.com/f1/equipos/ferrari)
 
@@ -13,7 +13,7 @@
 +  La restricción de 100 kg/h de consumo de combustible no permite aumentar la velocidad de rotación para las 15 mil revoluciones por minuto, obligando a que los técnicos se concentren en la búsqueda de una mayor presión de sobrealimentación del turbo y dentro de la cámara de combustión, (hay quienes esperan se superé los 5 bar) generando más potencia, teniendo como un objetivo alcanzar los 300 bar.
 + Gracias al exclusivo diseño de Giorgio Piola nos puede mostrar lo que han sido las intervenciones realizadas en la unidad de potencia en comparación con el año pasado. Esta es una verdadera revolución gracias a un meticuloso trabajo pieza por pieza. Estos días son para el montaje de la unidad de alimentación 2016, que será utilizado en el test de Barcelona de Ferrari y Haas, mientras qué Sauber y Toro Rosso correrán con versiones 2015.
 
-![f4.jpeg](f4.jpeg)
+![f4.jpeg](res/f4.jpeg)
 
 # Que lo diferencia de las demas marcas de lujo?
 Es un hecho que esta compania tiene una historica rivalidad con la famosa Lamborghini y la cuestion de cual es mejor es el foco de varias conversaciones. Ninguna de las dos es considerada subjetivamente superior y cada aficionado por los automoviles tiene su razon de opinar. Pero, que diferencias tecnicas tienen?
@@ -35,7 +35,7 @@ Sin embargo, las dimensiones no determinan la calidad o el rendimiento del coche
 #  La Potencia y la Innovación [review](https://www.caranddriver.com/ferrari)
 - La potencia de Ferrari se reparte entre el motor de gasolina V12 de 7.0 litros que genera 860 caballos de fuerza y el motor eléctrico que da 190 caballos de fuerza. Pero si hablamos a nivel general, el California T tiene 560, el 458 Italia tiene 570 y el 488 Spider tiene 670.
 
-![f2.jpeg](f2.jpeg)
+![f2.jpeg](res/f2.jpeg)
 # Tecnología de Suspensión en Ferrari
 
 En lo tocante al confort de marcha, también se ha realizado una enorme cantidad de trabajo. «La tecnología activa se instala en la rueda, por lo que hay que gestionar la masa extra», explica Francesca. «Utilizar el módulo de control del motor para lograr el nivel adecuado de comodidad ha sido todo un desafío». El sistema funciona automáticamente, aunque el conductor puede elegir uno de los tres niveles de amortiguación diferentes con un manettino especial. 
@@ -44,4 +44,4 @@ La capacidad del Purosangue para hacer frente a carreteras difíciles supone un 
 
 Hubo muchos problemas de desarrollo. El motor electrónico se desarrolló enteramente desde cero e hizo falta un gran esfuerzo para diseñar una unidad compacta capaz de sostener fuerzas de hasta 6000 newtons por ángulo. El sofisticado sistema tiene su propia batería e incluso su propia refrigeración, y utiliza dos bombas (una por eje) alimentadas por un pequeño radiador. 
 
-![lambovferrari.jpeg](lambovferrari.jpeg)
+![lambovferrari.jpeg](res/lambovferrari.jpeg)
